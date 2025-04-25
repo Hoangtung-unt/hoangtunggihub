@@ -25,5 +25,6 @@ khi người chơi đưa được nhân vật đến phần cuối của bản �
 - camera: dùng camera cuộn để có thể di chuyển map theo nhân vật
 - enermy: quái vật mang hình dáng zombie được tạo ngẫu nhiên di chuyển theo hướng nhân vật
 - player: nhân vật chính do người chơi điều khiển  
-
+# Video
+https://drive.google.com/file/d/15xNth_TZFR5le0QVEnDKI9V-m2aQ18W4/view?usp=sharing
 
